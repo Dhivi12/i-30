@@ -18,7 +18,7 @@
 					<h3>Shop Fruits Here</h3>
 					<p>We have design the page for the convenitent of the user and with basic HTML and CSS code in our understanding and we gadly request the user to like our page.</p>
 					<div class="button">
-						<a href="contact us.html">Contact Us</a>
+						<a href="contact_us.php">Contact Us</a>
 					</div>
 				</div>
 				<div class="social">
