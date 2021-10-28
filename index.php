@@ -15,10 +15,10 @@
                 </div>
                 <nav>
                     <ul id='MenuItems'>
-                        <li><a href='home.html'>Home</a></li>
-                        <li><a href='about.html'>About</a></li>
-                        <li><a href='contact us.html'>Contact</a></li>
-                        <li><a href='login.html'>Login</a></li>
+                        <li><a href='home.php'>Home</a></li>
+                        <li><a href='about.php'>About</a></li>
+                        <li><a href='contact_us.php'>Contact</a></li>
+                        <li><a href='login.php'>Login</a></li>
                     </ul>
                 </nav>
             </div>
